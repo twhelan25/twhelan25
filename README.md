@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tim Whelan</h1>
 <h3 align="center">Security Administrator</h3>
-<img align="right" alt="Coding" width="400" scr="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
+<img align="right" alt="Coding" width="400" scr="https://i.gifer.com/GYny.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twhelan25&label=Profile%20views&color=0e75b6&style=flat" alt="twhelan25" /> </p>
 
 <h3 align="left">Connect with me:</h3>
