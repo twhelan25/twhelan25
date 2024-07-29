@@ -8,7 +8,7 @@
 </p>
 
 - <b>tryhackme Profile</b>
-  -  <b>https://tryhackme.com/badge/1281460</b>
+  -  <img src="https://tryhackme-badges.s3.amazonaws.com/0BL1V10NAWA1TS.png" alt="TryHackMe">
 - <b>tryhackme CTF walkthroughs</b>
   - [tryhackme Pick Rick CTF walkthrough](https://github.com/twhelan25/tryhackme-Pickle-Rick-CTF-Walkthrough)
   - [tryhackme Brooklyn Nine Nine CTF walkthrough](https://github.com/twhelan25/twhelan25-tryhackme--Brooklyn-Nine-Nine)
