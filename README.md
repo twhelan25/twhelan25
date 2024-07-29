@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tim Whelan</h1>
-<h3 align="center">Security Administrator and Cybersecurity Professional</h3>
+<h3 align="center">Security Administrator, Cybersecurity Professional, U.S. Army Veteran</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twhelan25&label=Profile%20views&color=0e75b6&style=flat" alt="twhelan25" /> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -11,6 +11,7 @@
   -  <b>https://tryhackme.com/badge/1281460</b>
 - <b>tryhackme CTF walkthroughs</b>
   - [tryhackme Pick Rick CTF walkthrough](https://github.com/twhelan25/tryhackme-Pickle-Rick-CTF-Walkthrough)
+  - [tryhackme Brooklyn Nine Nine CTF walkthrough](https://github.com/twhelan25/twhelan25-tryhackme--Brooklyn-Nine-Nine)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
