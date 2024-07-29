@@ -7,6 +7,8 @@
 <a href="https://linkedin.com/in/timothy-whelan-80823171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="timothy-whelan-80823171" height="30" width="40" /></a>
 </p>
 
+- <b>tryhackme Profile</b>
+  -  <b>https://tryhackme.com/badge/1281460</b>
 - <b>tryhackme CTF walkthroughs</b>
   - [tryhackme Pick Rick CTF walkthrough](https://github.com/twhelan25/tryhackme-Pickle-Rick-CTF-Walkthrough)
 
