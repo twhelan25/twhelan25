@@ -11,12 +11,13 @@
   -  <img src="https://tryhackme-badges.s3.amazonaws.com/0BL1V10NAWA1TS.png" alt="TryHackMe">
 - <b>tryhackme CTF walkthroughs</b>
   - [tryhackme Pickle Rick CTF walkthrough](https://github.com/twhelan25/tryhackme-Pickle-Rick-CTF-Walkthrough)
+  - [tryhackme Bounty Hacker CTF writeup](https://github.com/twhelan25/tryhackme-Bounty-Hacker-CTF-Write-up)
   - [tryhackme Brooklyn Nine Nine CTF walkthrough](https://github.com/twhelan25/twhelan25-tryhackme--Brooklyn-Nine-Nine)
   - [tryhackme Agent Sudo CTF walkthrough](https://github.com/twhelan25/tryhackme-Agent-Sudo)
   - [tryhackme Brute It CTF walkthrough](https://github.com/twhelan25/tryhackme-Brute-It-writeup)
   - [tryhackme Chocolate Factory CTF writeup](https://github.com/twhelan25/tryhackme-Chocolate-Factory-CTF-Writeup/tree/main)
   - [tryhackme Skynet CTF writeup](https://github.com/twhelan25/tryhackme-Skynet-CTF-Writeup/blob/main/README.md)
-  - [tryhackme Bounty Hacker CTF writeup](https://github.com/twhelan25/tryhackme-Bounty-Hacker-CTF-Write-up)
+  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
