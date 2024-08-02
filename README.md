@@ -26,7 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=twhelan25&show_icons=true&locale=en" alt="twhelan25" /></p>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-CEH-D32F2F?&style=for-the-badge&logo=EC-Council&logoColor=white&logoWidth=20" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
