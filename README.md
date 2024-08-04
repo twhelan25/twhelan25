@@ -17,6 +17,7 @@
   - [tryhackme Brute It CTF walkthrough](https://github.com/twhelan25/tryhackme-Brute-It-writeup)
   - [tryhackme Chocolate Factory CTF writeup](https://github.com/twhelan25/tryhackme-Chocolate-Factory-CTF-Writeup/tree/main)
   - [tryhackme Skynet CTF writeup](https://github.com/twhelan25/tryhackme-Skynet-CTF-Writeup/blob/main/README.md)
+  - [tryhackme CyberLens CTF writeup](https://github.com/twhelan25/tryhackme-CTF-writeup-for-cyberlens)
   
 
 <h3 align="left">Languages and Tools:</h3>
