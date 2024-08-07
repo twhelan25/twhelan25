@@ -19,6 +19,7 @@
   - [tryhackme Skynet CTF writeup](https://github.com/twhelan25/tryhackme-Skynet-CTF-Writeup/blob/main/README.md)
   - [tryhackme CyberLens CTF writeup](https://github.com/twhelan25/tryhackme-CTF-writeup-for-cyberlens)
   - [tryhackme Creative CTF writeup](https://github.com/twhelan25/tryhackme-CTF-writeup-for-Creative)
+  - [tryhackme mkingdom CTF writeup](https://github.com/twhelan25/tryhackme-CTF-writeup-for-mkingdom)
   
 
 <h3 align="left">Languages and Tools:</h3>
