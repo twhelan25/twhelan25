@@ -20,6 +20,7 @@
   - [tryhackme CyberLens CTF writeup](https://github.com/twhelan25/tryhackme-CTF-writeup-for-cyberlens)
   - [tryhackme Creative CTF writeup](https://github.com/twhelan25/tryhackme-CTF-writeup-for-Creative)
   - [tryhackme mkingdom CTF writeup](https://github.com/twhelan25/tryhackme-CTF-writeup-for-mkingdom)
+  - [tryhackme Jurassic Park CTF Writeup](https://github.com/twhelan25/tryhackme-Jurassic-Park-Writeup)
   
 
 <h3 align="left">Languages and Tools:</h3>
