@@ -21,6 +21,7 @@
   - [tryhackme Creative CTF writeup](https://github.com/twhelan25/tryhackme-CTF-writeup-for-Creative)
   - [tryhackme mkingdom CTF writeup](https://github.com/twhelan25/tryhackme-CTF-writeup-for-mkingdom)
   - [tryhackme Jurassic Park CTF Writeup](https://github.com/twhelan25/tryhackme-Jurassic-Park-Writeup)
+  - [tryhackme Pyrat CTF Writeup](https://github.com/twhelan25/tryhackme-Pyratt-Writeup)
   
 
 <h3 align="left">Languages and Tools:</h3>
