@@ -22,6 +22,7 @@
   - [tryhackme mkingdom CTF writeup](https://github.com/twhelan25/tryhackme-CTF-writeup-for-mkingdom)
   - [tryhackme Jurassic Park CTF Writeup](https://github.com/twhelan25/tryhackme-Jurassic-Park-Writeup)
   - [tryhackme Corridor CTF Writeup](https://github.com/twhelan25/tryhackme-Corridor-CTF-Writeup/settings)
+  - [tryhackme U.A. High School CTF Writeup](https://github.com/twhelan25/tryhackme-U.A.-HighSchool)
   - [tryhackme Pyrat CTF Writeup](https://github.com/twhelan25/tryhackme-Pyratt-Writeup)
   
 
