@@ -23,6 +23,7 @@
   - [tryhackme Jurassic Park CTF Writeup](https://github.com/twhelan25/tryhackme-Jurassic-Park-Writeup)
   - [tryhackme Corridor CTF Writeup](https://github.com/twhelan25/tryhackme-Corridor-CTF-Writeup/settings)
   - [tryhackme Thompson CTF Writeup](https://github.com/twhelan25/tryhackme-Thompson)
+  - [tryhackme Expose CTF Writeup](https://github.com/twhelan25/tryhackme-Expose)
   - [tryhackme U.A. High School CTF Writeup](https://github.com/twhelan25/tryhackme-U.A.-HighSchool)
   - [tryhackme White Rose CTF Writeup](https://github.com/twhelan25/tryhackme-white-rose)
   - [tryhackme Pyrat CTF Writeup](https://github.com/twhelan25/tryhackme-Pyratt-Writeup)
