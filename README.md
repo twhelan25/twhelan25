@@ -8,7 +8,8 @@
 </p>
 
 - <b>tryhackme Profile</b>
-  -  <img src="https://tryhackme-badges.s3.amazonaws.com/BI66ER.png" alt="Your Image Badge" />
+  -  ![badge](https://github.com/user-attachments/assets/22ee7e8f-f55f-4554-bca0-36cfa7960756)
+
 - <b>tryhackme CTF walkthroughs</b>
   - [tryhackme Pickle Rick CTF walkthrough](https://github.com/twhelan25/tryhackme-Pickle-Rick-CTF-Walkthrough)
   - [tryhackme Bounty Hacker CTF writeup](https://github.com/twhelan25/tryhackme-Bounty-Hacker-CTF-Write-up)
