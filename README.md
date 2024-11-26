@@ -27,6 +27,7 @@
   - [tryhackme Expose CTF Writeup](https://github.com/twhelan25/tryhackme-Expose)
   - [tryhackme U.A. High School CTF Writeup](https://github.com/twhelan25/tryhackme-U.A.-HighSchool)
   - [tryhackme White Rose CTF Writeup](https://github.com/twhelan25/tryhackme-white-rose)
+  - [tryhackme Lookup CTF Writeup](https://github.com/twhelan25/tryhackme-Lookup)
   - [tryhackme Pyrat CTF Writeup](https://github.com/twhelan25/tryhackme-Pyratt-Writeup)
   
 
